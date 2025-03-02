@@ -1,0 +1,23 @@
+# Ignore the Library folder
+/Library/
+
+# Ignore the Temp folder
+/Temp/
+
+# Ignore the Obj folder
+/Obj/
+
+# Ignore the Build folder
+/Build/
+
+# Ignore .vs folder created by Visual Studio
+.vs/
+
+# Ignore .idea folder created by JetBrains IDEs (e.g., Rider, IntelliJ)
+.idea/
+
+# Ignore .DS_Store files (macOS-specific)
+.DS_Store
+
+# Ignore Thumbs.db (Windows-specific)
+Thumbs.db
